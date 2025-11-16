@@ -6,7 +6,7 @@
 # 🌺🍈 **Hi, I'm Sara — Founder of Papaya Kiwi Consulting LLC** 🥝🌸  
 ### *Securing your cloud, one byte at a time.*
 
-Welcome to my little pastel corner of cybersecurity 🍑🌱  
+Welcome to my little pastel corner of cybersecurity 🌱  
 I specialize in **enterprise cloud security, data protection, threat analysis, and investigations support** — all delivered with clarity, empathy, and a pinch of kawaii charm.  
 Because security should be **powerful**, but also **approachable**.
 
