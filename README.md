@@ -18,7 +18,7 @@ My expertise in **security algorithms** and data analysis drives specific busine
 | Area of Impact | Key Result & Technical Focus |
 | :--- | :--- |
 | **Security Posture Hardening** | **Result:** Reduced attack surface by enforcing security baselines (CIS/NIST) on **AWS, Azure, GCP** using **Terraform**. |
-| **Real-Time Risk Visibility** | **Focus:** Implementing **algorithmic anomaly detection** via **Splunk** and advanced CSPM tools (**Prisma Cloud, Cortex Cloud**) to identify deviations from secure state. |
+| **Real-Time Risk Visibility** | **Focus:** Implementing **algorithmic anomaly detection** via **Splunk** and advanced CSPM tools (**Prisma Cloud, Cortex Cloud, Wiz**) to identify deviations from secure state. |
 | **Data Governance & Integrity** | **Focus:** Designing and implementing **data obfuscation algorithms** and robust access controls for sensitive data workloads on **Snowflake**. |
 | **Proactive Vulnerability Mitigation** | **Result:** Achieved near-zero exposure to high-risk **npm vulnerabilities** and API flaws using static and dynamic analysis algorithms. |
 | **Compliance & Audits** | **Result:** Prepared teams for audits by mapping technical controls directly to **NIST** and **OWASP** requirements, improving audit readiness by **50%**. |
@@ -29,7 +29,7 @@ My expertise in **security algorithms** and data analysis drives specific busine
 
 I utilize robust tools, languages, and security principles to deliver tangible security improvements:
 
-* **CSPM/Security Tools:** Prisma Cloud, Cortex Cloud, Splunk, Snowflake
+* **CSPM/Security Tools:** Prisma Cloud, Cortex Cloud, Wiz, Splunk, Snowflake
 * **IaC/Scripting:** Terraform, **Python** (for scripting security analysis and implementing custom **algorithms**), R, YAML
 * **Standards:** CIS Benchmarks, NIST, OWASP Top 10 & API Security
 
@@ -53,8 +53,8 @@ I utilize robust tools, languages, and security principles to deliver tangible s
 If you need a clear, results-driven approach to cloud and data security, let's connect.
 
 * 🌐 Website: *coming soon!*
-* 💌 Email: `<your email>`
-* 🕸️ Socials: `<your links>`
+* 💌 Email: `sara@papapa.kiwi`
+* 🕸️ Socials: `linkedin in bio`
 
 ---
 
