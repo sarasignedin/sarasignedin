@@ -171,3 +171,5 @@ A timeline infused with growth + grit + heart:
 If you like pastel energy, clean architecture, cloud security, and fruit-themed professionalism…  
 you’re in the right place 🥝✨  
 
+<img width="2688" height="1536" alt="image" src="https://github.com/user-attachments/assets/142c66d2-5c20-421f-9435-0211e4a0c759" />
+
