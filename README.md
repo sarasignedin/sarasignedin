@@ -1,6 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarasignedin/sarasignedin/main/brand/banner-wide.svg" width="100%" />
   <img width="2688" height="1536" alt="image" src="https://github.com/user-attachments/assets/c4bf1cc8-f6ce-4fe0-b744-caec63289995" />
 
 </p>
